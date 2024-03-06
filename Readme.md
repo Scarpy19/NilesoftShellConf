@@ -3,11 +3,25 @@
 Version 1.9.15
 
 > [!IMPORTANT]
-> This config files are for Spanish language.
+> This config files are only for Windows 11 using Spanish language.
 
 ## Some features
 
-TODO
+Removed totally from the context menu:
+
+- Restore previous versions
+- Give access to
+- Create shortcut
+- Copy to folder
+- Move to folder
+- Modern Share
+- Include in library
+
+Moved to Pin/Unpin Menu:
+
+- Add/Remove to favs (files)
+- Pin/Unpin to Start
+- Pin/Unpin to Quick Access
 
 ## How it looks like
 
