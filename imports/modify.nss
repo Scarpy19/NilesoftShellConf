@@ -20,7 +20,7 @@ modify(find="quitar*" pos="bottom" menu="Pin/Unpin")
 modify(where=this.id==id.copy_as_path menu="file manage")
 modify(type="dir.back|drive.back" where=this.id==id.customize_this_folder pos=1 sep="top" menu="file manage")
 
-modify(where=str.equals(this.name, ["abrir en terminal", "open linux shell here"]) || this.id==id.open_powershell_window_here
+modify(where=str.equals(this.name, ["abrir en terminal", "abrir shell de linux aquí"]) || this.id==id.open_powershell_window_here
 	pos="bottom" menu="Terminal")
 
 modify(mode=mode.multiple
