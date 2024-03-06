@@ -5,12 +5,24 @@ Version 1.9.15
 > [!IMPORTANT]
 > This config files are for Spanish language.
 
-How it looks like
+## How it looks like
 
-- Right clicking:
+### Right clicking
+
+- Desktop:
 
 Image
 
-- Shift right clicking:
+- File:
+
+Image
+
+### Shift right clicking
+
+- Desktop:
+
+Image
+
+- File:
 
 Image
