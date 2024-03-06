@@ -5,10 +5,12 @@ Version 1.9.15
 > [!IMPORTANT]
 > This config files are for Spanish language.
 
-How it looks like right clicking:
+How it looks like
+
+- Right clicking:
 
 Image
 
-How it looks like shift right clicking:
+- Shift right clicking:
 
 Image
