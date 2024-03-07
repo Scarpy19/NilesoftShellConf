@@ -4,6 +4,7 @@ Version 1.9.15
 
 > [!IMPORTANT]
 > This config files are only for Windows 11 using Spanish language.
+> _I don't know if it work properly on Windows 10._
 
 ## Some features
 
