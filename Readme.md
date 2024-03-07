@@ -1,4 +1,4 @@
-# Config files for Nilesoft Shell
+# Config files for [Nilesoft Shell](https://github.com/moudey/Shell)
 
 Version 1.9.15
 
