@@ -2,7 +2,7 @@
 {
 	name = "modern"
 	view = view.small
-	dark = true
+	dark = sys.dark ? "true" : "false"
 	background
 	{
 		color = default
